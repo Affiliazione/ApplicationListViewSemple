@@ -16,6 +16,8 @@ public class MenuArrayAdapter extends ArrayAdapter<NovoMenuItem> {
     private final Context context;
     private final NovoMenuItem[] values;
 
+    // sfsf
+
     public MenuArrayAdapter(Context context, NovoMenuItem[] values) {
         super(context, R.layout.novo_menu_item, values);
         this.context = context;
