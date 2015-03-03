@@ -28,6 +28,8 @@ public class MainActivity extends Activity {
 
 
         //Fabrizio Commit
+        // Fabrizio2
+
 
         final ListView listview = (ListView) findViewById(R.id.listView);
 
